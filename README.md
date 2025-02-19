@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 # 💫 About Me:
-🚀 I am a recently graduated systems engineer with a solid academic background and a constant ambition to innovate and create technological solutions that transform processes and improve results. My focus is on programming, software development, and the implementation of systems that drive efficiency and productivity.
+🚀 I am a systems engineer with a solid academic 🌐 background and a constant ambition to innovate and create technological solutions that transform processes and improve results.<br> 📘 My focus is on programming, software development, and the implementation of systems that drive efficiency and productivity.
 
 
 
