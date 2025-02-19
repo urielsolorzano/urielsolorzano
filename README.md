@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+🚀 I am a recently graduated systems engineer with a solid academic background and a constant ambition to innovate and create technological solutions that transform processes and improve results. My focus is on programming, software development, and the implementation of systems that drive efficiency and productivity.
 
 
 
